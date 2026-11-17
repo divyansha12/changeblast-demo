@@ -1,0 +1,18 @@
+{
+  "name": "changeblast-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest run",
+    "analyze": "changeblast analyze"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "changeblast": "^1.0.0",
+    "vitest": "^5.1.0"
+  }
+}
