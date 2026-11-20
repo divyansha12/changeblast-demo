@@ -2,6 +2,10 @@
 
 A demonstration project showing how the published ChangeBlast npm package can be used in a JavaScript application.
 
+## Live Demo
+
+https://divyansha12.github.io/changeblast-demo/
+
 ## About
 
 This project contains a small authentication and profile application. It demonstrates how ChangeBlast analyzes source-code changes and recommends potentially affected test files using dependency analysis.
